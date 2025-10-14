@@ -7,3 +7,5 @@ Most of the contracts were copied from the [flare-smart-contracts](https://gitla
 The `IFdcVerification.sol` was re-written to work on a non-native chain.
 The `Web2Json.sol` was copied from the `fdcExample` directory;
 an additional constructor parameter was added to specify the `FdcVerification` contract.
+
+<!-- Auto-update: 2025-10-14T11:26:01.591170 -->
